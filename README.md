@@ -3,7 +3,7 @@ Node.js is an open-source, cross-platform, JavaScript runtime environment that e
 
 # MUST:
 <ul>
-    <li><a href="https://nodejs.org/en/download/">Download the Node.js</a></li> 
+    <li><a href="https://nodejs.org/en/download/">Download and install the Node.js</a></li> 
     <li><a href=""> </a></li> 
     <li><a href=""> </a></li> 
 </ul>
